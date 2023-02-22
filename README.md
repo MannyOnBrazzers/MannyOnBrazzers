@@ -1,5 +1,3 @@
-### maybe I'll take the time on this some other day....
-
 [![MannyOnBrazzers's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MannyOnBrazzers&count_private=true&show_icons=true&theme=synthwave)](https://github.com/MannyOnBrazzers/github-readme-stats)
 
 <!--

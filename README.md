@@ -1,5 +1,7 @@
 ### maybe I'll take the time on this some other day....
 
+[![MannyOnBrazzers's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MannyOnBrazzers)](https://github.com/MannyOnBrazzers/github-readme-stats)
+
 <!--
 **MannyOnBrazzers/MannyOnBrazzers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
